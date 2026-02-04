@@ -1,6 +1,6 @@
 # Flyff Universe Auto FS
 
-![GIF](https://s6.ezgif.com/tmp/ezgif-622ff6b1c093e716.gif)
+![Demo](demo.gif)
 
 ⚠️ *Requirement*: Requires the [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) extension for Google Chrome.
 
